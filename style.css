@@ -10,12 +10,18 @@ body{
     margin-top: 60px;
     
 }
+
 .head_stl{
     font-size: 60px;
+    margin-bottom: 50px;
 }
-
+.fon_stl{
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 100px;
+}
 .ancor{
-    padding: 20px 40px;
+    padding: 30px 50px;
     border-radius: 100px;
     text-decoration: none;
     background-image: linear-gradient(salmon,tomato);
@@ -32,22 +38,28 @@ body{
 .mid_sec{
     background-image: url(images/shapes/7.png);
     background-repeat:no-repeat;
-    margin-left: 3%;
+    width: 100%;
+    padding: 40px;
 }
 .mid_sec_left{
     float: left;
     margin-top: 50px;
-    margin-left: 180px;
+    margin-left: 250px;
 
 }
 .mid_sec_right{
     float: right;
-    margin-top:100px;
+    margin-top:70px;
     margin-right: 200px;
-    margin-left: 200px;
+    margin-left: 250px;
 }
+.head_stl{
+    font-size: 32px;
+}
+
 .tex_ali{
     text-align: center;
+    
 }
 .box_left{
     width: 30%;
